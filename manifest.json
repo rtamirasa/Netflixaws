@@ -1,0 +1,16 @@
+{
+    "fileLocations": [
+      {
+        "URIs": [
+          "s3://network-quicksight-rtamirasa/netflix_titles.csv"
+        ]
+      }
+    ],
+    "globalUploadSettings": {
+      "format": "CSV",
+      "delimiter": ",",
+      "textqualifier": "\"",
+      "containsHeader": "true"
+    }
+  }
+  
